@@ -92,3 +92,5 @@ npm run dev
 cd frontend
 npm run dev
 ```
+<br/>
+<p>...and last but not least, it's 100% responsive!</p>
