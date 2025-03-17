@@ -2,15 +2,17 @@
 <p align='center'>You can read this in other languages:</p>
 <div align="center">
 
-<kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.pt_br.md)</kbd>
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](README.de.md)</kbd>
-<kbd>[<img title="Española" alt="Española" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.es.md)</kbd>
-<kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](README.ru.md)</kbd>
+<kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
+<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
+<kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](translations/README.ru.md)</kbd>
+
 </div>
 <br/>
 
 ![Demo App](/frontend/public/demo-app.png)
 <br/>
+
 <h1>The Project</h1>
 <p>The main reason for the project was to demonstrate the use of various modern technologies in a full-stack application, with a focus on the PERN stack.
 
@@ -24,6 +26,7 @@ Cleanly structured codes and folders, to be easy to maintain and scalable.</p>
 <br/>
 ![Product Demo](/frontend/public/demo-product.png)
 <br/>
+
 <h1>Themes</h1>
 <p>As mentioned above, there are 13 different themes to choose from.
   
@@ -92,5 +95,6 @@ npm run dev
 cd frontend
 npm run dev
 ```
+
 <br/>
 <p>...and last but not least, it's 100% responsive!</p>
