@@ -85,3 +85,5 @@ npm run dev
 cd frontend
 npm run dev
 ```
+<br/>
+<p>...E, por último, mas não menos importante, ele é 100% responsivo!</p>
